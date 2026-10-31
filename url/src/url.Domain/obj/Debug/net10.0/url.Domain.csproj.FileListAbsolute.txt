@@ -1,0 +1,12 @@
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/src/url.Domain/bin/Debug/net10.0/url.Domain.deps.json
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/src/url.Domain/bin/Debug/net10.0/url.Domain.dll
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/src/url.Domain/bin/Debug/net10.0/url.Domain.pdb
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/src/url.Domain/obj/Debug/net10.0/url.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/src/url.Domain/obj/Debug/net10.0/url.Domain.AssemblyInfoInputs.cache
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/src/url.Domain/obj/Debug/net10.0/url.Domain.AssemblyInfo.cs
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/src/url.Domain/obj/Debug/net10.0/url.Domain.csproj.CoreCompileInputs.cache
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/src/url.Domain/obj/Debug/net10.0/url.Domain.sourcelink.json
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/src/url.Domain/obj/Debug/net10.0/url.Domain.dll
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/src/url.Domain/obj/Debug/net10.0/refint/url.Domain.dll
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/src/url.Domain/obj/Debug/net10.0/url.Domain.pdb
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/src/url.Domain/obj/Debug/net10.0/ref/url.Domain.dll
