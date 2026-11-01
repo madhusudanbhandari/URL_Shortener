@@ -1,7 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using url.Application.Interface;
 using url.Infrastructure.Persistence.Configurations;
+using url.Infrastructure.Repository;
 
 namespace url.Infrastructure;
 
@@ -21,6 +23,8 @@ public static class DependencyInjection
 
         services.AddDbContext<urlDbContext>(options=>
         options.UseNpgsql(connectionString));
+
+        services.AddScoped<IUrlRepository,UrlRepository>();
 
 
         return services;

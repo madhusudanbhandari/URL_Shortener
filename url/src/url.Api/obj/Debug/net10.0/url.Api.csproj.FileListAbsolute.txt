@@ -127,3 +127,7 @@
 /Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/src/url.Api/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 /Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/src/url.Api/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 /Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/src/url.Api/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/src/url.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/src/url.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/src/url.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/src/url.Api/bin/Debug/net10.0/BCrypt-Net-Next.dll

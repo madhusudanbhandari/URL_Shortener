@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "EJJjw0qMu9c=",
+  "dgSpecHash": "RMjtYZZUyJU=",
   "success": true,
   "projectFilePath": "/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/src/url.Infrastructure/url.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "/Users/madhusudanbhandari/.nuget/packages/bcrypt.net-next/4.2.0/bcrypt.net-next.4.2.0.nupkg.sha512",
     "/Users/madhusudanbhandari/.nuget/packages/microsoft.entityframeworkcore/10.0.14/microsoft.entityframeworkcore.10.0.14.nupkg.sha512",
     "/Users/madhusudanbhandari/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.14/microsoft.entityframeworkcore.abstractions.10.0.14.nupkg.sha512",
     "/Users/madhusudanbhandari/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.14/microsoft.entityframeworkcore.analyzers.10.0.14.nupkg.sha512",

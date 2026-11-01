@@ -125,3 +125,7 @@
 /Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/tests/url.IntegrationTests/bin/Debug/net10.0/Microsoft.Extensions.Primitives.dll
 /Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/tests/url.IntegrationTests/bin/Debug/net10.0/Npgsql.dll
 /Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/tests/url.IntegrationTests/bin/Debug/net10.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/tests/url.IntegrationTests/bin/Debug/net10.0/BCrypt-Net-Next.dll
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/tests/url.IntegrationTests/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/tests/url.IntegrationTests/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/tests/url.IntegrationTests/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll

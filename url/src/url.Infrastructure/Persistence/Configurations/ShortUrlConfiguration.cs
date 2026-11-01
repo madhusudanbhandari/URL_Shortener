@@ -21,7 +21,8 @@ public class ShortCodeConfiguration: IEntityTypeConfiguration<ShortUrl>
                 .HasMaxLength(10);
         
         builder.HasIndex(x=>x.ShortCode)
-                .IsUnique();
+                .IsUnique()
+                .HasDatabaseName("IX_ShortUrls_ShortCode");
 
         builder.Property(x=>x.CreatedAt)
                 .IsRequired();

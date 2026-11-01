@@ -55,7 +55,8 @@ namespace url.Infrastructure.Migrations
                     b.HasKey("Id");
 
                     b.HasIndex("ShortCode")
-                        .IsUnique();
+                        .IsUnique()
+                        .HasDatabaseName("IX_ShortUrls_ShortCode");
 
                     b.ToTable("ShortUrls", (string)null);
                 });
@@ -73,6 +74,10 @@ namespace url.Infrastructure.Migrations
                         .HasColumnType("text");
 
                     b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("Password")
                         .IsRequired()
                         .HasColumnType("text");
 
