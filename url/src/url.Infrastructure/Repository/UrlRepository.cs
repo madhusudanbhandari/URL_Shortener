@@ -31,4 +31,9 @@ public class UrlRepository : IUrlRepository
             return false;
         }
     }
+
+    public async Task<ShortUrl?> GetUrlByCode(string shortCode,CancellationToken cancellationToken)
+    {
+        return await _context.shortUrls.FirstOrDefaultAsync(u=>u.ShortCode==shortCode,cancellationToken);
+    }
 }

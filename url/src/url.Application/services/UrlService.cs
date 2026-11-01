@@ -40,5 +40,22 @@ public class UrlService : IUrlService
         throw new InvalidOperationException("unable to generate short code after many attempts");
     }
 
+    public async Task<string> GetOriginalUrl(string shortCode,CancellationToken cancellationToken)
+    {
+        var shortUrl=await _urlRepository.GetUrlByCode(shortCode,cancellationToken);
+        if (shortUrl == null)
+        {
+            throw new Exception("Cannot find the url");
+        }
+
+        if (!shortUrl.CanRedirect())
+        {
+            throw new Exception("This short url is expired or inactive");
+        }
+
+        return shortUrl.OriginalUrl;
+
+    }
+
     
 }

@@ -6,7 +6,7 @@ using url.Application.Services;
 namespace url.Api.Controller;
 
 [ApiController]
-[Route("api/[controller]")]
+[Route("")]
 public class UrlController : ControllerBase
 {
     private readonly IUrlService _urlService;
@@ -27,5 +27,12 @@ public class UrlController : ControllerBase
 
         return Created(url.ShortUrl,url);
 
+    }
+
+    [HttpGet("{shortCode}")]
+    public async Task<IActionResult> RedirectToOriginal(string shortCode, CancellationToken cancellationToken)
+    {
+        var originalUrl=await _urlService.GetOriginalUrl(shortCode,cancellationToken);
+        return Redirect(originalUrl);
     }
 }

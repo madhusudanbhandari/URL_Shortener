@@ -6,4 +6,5 @@ namespace url.Application.Interface;
 public interface IUrlRepository
 {
     Task<bool> TryAddAsync(ShortUrl shortUrl, CancellationToken cancellationToken);
+    Task<ShortUrl?> GetUrlByCode(string shortCode,CancellationToken cancellationToken);
 }
