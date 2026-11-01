@@ -115,3 +115,8 @@
 /Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/tests/url.UnitTests/bin/Debug/net10.0/Microsoft.Extensions.Primitives.dll
 /Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/tests/url.UnitTests/bin/Debug/net10.0/Npgsql.dll
 /Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/tests/url.UnitTests/bin/Debug/net10.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/tests/url.UnitTests/bin/Debug/net10.0/Castle.Core.dll
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/tests/url.UnitTests/bin/Debug/net10.0/Moq.dll
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/tests/url.UnitTests/bin/Debug/net10.0/System.Diagnostics.EventLog.dll
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/tests/url.UnitTests/bin/Debug/net10.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/Users/madhusudanbhandari/Desktop/url/URL_Shortener/url/tests/url.UnitTests/bin/Debug/net10.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll
